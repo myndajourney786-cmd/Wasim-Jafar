@@ -1,0 +1,6 @@
+{
+  "name": "NoxaEuro AI",
+  "description": "Enterprise Production AI Assistant Platform. Think Faster. Create Smarter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
